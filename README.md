@@ -1,6 +1,7 @@
 Ferramentas
 
 Parrot
+
 setoolkit
 
 Configurando o Phishing no Kali Linux
